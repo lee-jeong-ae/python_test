@@ -10,7 +10,7 @@ try :
 except ValueError :
     print('This is not a number.')
 
-# 예제2 -> 올바른 값 입력 완료까지 지속
+# 예제2 -> 올바른 값 입력 완료까지 지속.
 while True :
     try :
         n = int(input("enter a number : "))
